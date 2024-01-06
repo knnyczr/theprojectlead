@@ -5,7 +5,7 @@ export default function IndexPage() {
   return (
     <Layout>
       <div className="p-10">
-        <div className="flexflex-col md:flex-row md:px-20 lg:px-40 ">
+        <div className="md:px-20 lg:px-40">
           <div
             style={{ height: `150px`, width: `150px` }}
             className="rounded-full p-5 bg-slate-400 h-30 w-30"
