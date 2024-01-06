@@ -1,11 +1,10 @@
 import React from "react";
-import Navbar from "../components/nav";
 import Layout from "../components/Layout";
 
 export default function IndexPage() {
   return (
     <Layout>
-      <div className="p-10 bg-slate-500">
+      <div className="p-10">
         <div className="flexflex-col md:flex-row md:px-20 lg:px-40 ">
           <div
             style={{ height: `150px`, width: `150px` }}
@@ -17,17 +16,36 @@ export default function IndexPage() {
                 whiteSpace: `pre-wrap`,
               }}
             >
-              {`Derick Martinez is a seasoned professional with an extensive background in Youth Development spanning over 18 years. Prior to his tenure with NYC agencies, Derick dedicated a significant portion of his career as a Program Director, demonstrating a steadfast commitment to fostering Positive Youth Development within youth-centered programs. His role involved meticulous oversight, ensuring the program's alignment with best practices and objectives.
+              {`Project Lead
 
-In 2014, Derick brought his wealth of experience to the Department of Youth and Community Development (DYCD), initially joining as a Program Manager. In this capacity, he played a pivotal role in monitoring and supporting the youth-focused initiatives of partner agencies. As he progressed within the organization, Derick transitioned to Capacity Building, where he curated a diverse portfolio and conducted workshops on crucial topics such as Youth Development, Social Emotional Learning, and Managing Conflict.
+At Project Lead, we are dedicated to transforming organizations by providing tailored solutions in talent development, project management, and organizational change. With a commitment to excellence, we empower businesses to thrive in an ever-evolving landscape.
 
-A catalyst for change, Derick assumed a leadership position within the agency's Program Integration and Professional Development team in 2020. Here, he took charge of managing the organization's anti-racism priorities and Equity plan through the Equity Workgroup. Derick's commitment to fostering an inclusive and equitable environment was evident as he facilitated workshops on these topics, contributing to the collective growth and awareness within the organization.
+Our Expertise:
 
-Furthermore, Derick played a pivotal role in supporting the execution of staff conferences and the development of the Professional Development plan. His strategic vision and hands-on approach ensured the seamless integration of initiatives that promoted professional growth and excellence.
+Training Excellence:
+Our training programs are crafted to inspire growth and development. Whether it's honing technical skills or fostering leadership qualities, our experienced trainers deliver engaging sessions that resonate with diverse audiences. We understand that a well-trained workforce is the cornerstone of success, and we tailor our programs to meet the unique needs of your team.
 
-Derick holds a Bachelor's degree from Hunter College in both Psychology and Sociology, underlining his deep understanding of the human psyche and societal dynamics. Additionally, he holds certificates in Database Applications and Management from Columbia University, showcasing his dedication to staying at the forefront of evolving technologies.
+Project Management Mastery:
+Navigating complex projects requires a strategic approach. Project Lead specializes in project management, offering comprehensive solutions to ensure successful project delivery. From initiation to completion, our seasoned project managers employ best practices, cutting-edge methodologies, and a keen eye for detail to keep projects on track and within scope.
 
-Derick Martinez is not just a professional; he is a passionate advocate for youth empowerment, equity, and continual learning. His multifaceted expertise and unwavering dedication have consistently contributed to the success and impact of youth development programs and initiatives.`}
+Organizational Change Catalysts:
+Embracing change is vital for organizational growth. Project Lead serves as a catalyst for positive change, guiding for-profit and non-profits through transformations that enhance efficiency and foster innovation. Our change management strategies are rooted in a deep understanding of organizational dynamics, ensuring a smooth transition and a positive impact on company culture.
+
+Why Choose Project Lead?
+
+Customized Solutions:
+We recognize that every organization is unique. Our approach involves working closely with clients to understand their specific challenges and goals, allowing us to tailor our services for maximum impact.
+
+Experienced Professionals:
+Our team consists of seasoned experts in talent development, project management, and change management. With a wealth of experience across diverse industries, we bring a broad perspective and innovative solutions to the table.
+
+Proven Track Record:
+Project Lead has a proven track record of delivering results. Many organizations have benefited from our expertise, achieving improved performance, enhanced project outcomes, and successful organizational transformations.
+
+Future-Focused Solutions:
+In a rapidly evolving business landscape, Project Lead stays ahead of the curve. We continuously update our methodologies and offerings to ensure our clients are equipped to thrive in an ever-changing environment.
+
+Choose Project Lead for unparalleled expertise in talent development, project management, and organizational change. Together, let's build a foundation for success and foster a culture of continuous improvement.`}
             </p>
           </div>
           <div>contact info</div>

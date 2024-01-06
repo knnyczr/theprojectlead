@@ -12,7 +12,9 @@ module.exports = {
       xl: "1440px",
       "2xl": "1536px",
     },
-    fontFamily: {},
+    fontFamily: {
+      sans: ["Open Sans"],
+    },
     fontWeight: {
       light: 300,
       normal: 400,

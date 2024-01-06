@@ -18,6 +18,9 @@ export default function Navbar() {
         <Link className="mr-2" href={`/resources`}>
           Resources
         </Link>
+        <Link className="mr-2" href={`/blog`}>
+          Blog
+        </Link>
       </nav>
     </div>
   );
